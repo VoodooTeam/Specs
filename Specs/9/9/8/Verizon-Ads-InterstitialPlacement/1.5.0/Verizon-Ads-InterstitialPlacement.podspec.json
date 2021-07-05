@@ -12,7 +12,7 @@
     "Verizon Media": "MobileAdsSDK@verizonmedia.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/com/verizon/ads/ios-vas-interstitial-placement-cocoapods-artifact/1.5.0/ios-vas-interstitial-placement-cocoapods-artifact-1.5.0.zip"
+    "http": "https://voodoosauce-sdk.s3.eu-west-2.amazonaws.com/pods-artifact/Verizon-Ads-InterstitialPlacement.zip"
   },
   "requires_arc": true,
   "platforms": {

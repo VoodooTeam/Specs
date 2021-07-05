@@ -12,7 +12,7 @@
     "Verizon Media": "MobileAdsSDK@verizonmedia.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/com/verizon/ads/ios-vas-core-cocoapods-artifact/2.3.1/ios-vas-core-cocoapods-artifact-2.3.1.zip"
+    "http": "https://voodoosauce-sdk.s3.eu-west-2.amazonaws.com/pods-artifact/Verizon-Ads-Core.zip"
   },
   "requires_arc": true,
   "platforms": {
