@@ -12,7 +12,7 @@
     "Verizon Media": "MobileAdsSDK@verizonmedia.com"
   },
   "source": {
-    "http": "https://voodoosauce-sdk.s3.eu-west-2.amazonaws.com/pods-artifact/Verizon-Ads-NativeVerizonNativeAdapter.zip"
+    "http": "https://voodoosauce-sdk.s3.eu-west-2.amazonaws.com/pods-artifact/Verizon-Ads-VerizonNativeController.zip"
   },
   "requires_arc": true,
   "platforms": {
