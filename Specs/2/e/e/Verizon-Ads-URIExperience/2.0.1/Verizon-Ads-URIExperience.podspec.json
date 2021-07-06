@@ -12,7 +12,7 @@
     "Verizon Media": "MobileAdsSDK@verizonmedia.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/com/verizon/ads/ios-vas-uri-experience-cocoapods-artifact/2.0.1/ios-vas-uri-experience-cocoapods-artifact-2.0.1.zip"
+    "http": "https://artifactory.verizonmedia.com/artifactory/maven/com/verizon/ads/ios-vas-uri-experience-cocoapods-artifact/2.0.1/ios-vas-uri-experience-cocoapods-artifact-2.0.1.zip"
   },
   "requires_arc": true,
   "platforms": {

@@ -12,7 +12,7 @@
     "TacoCorp": "tacocorp-leads@oath.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/com/verizon/ads/ios-vas-sideloading-waterfall-provider-cocoapods-artifact/1.0.0/ios-vas-sideloading-waterfall-provider-cocoapods-artifact-1.0.0.zip"
+    "http": "https://artifactory.verizonmedia.com/artifactory/maven/com/verizon/ads/ios-vas-sideloading-waterfall-provider-cocoapods-artifact/1.0.0/ios-vas-sideloading-waterfall-provider-cocoapods-artifact-1.0.0.zip"
   },
   "requires_arc": true,
   "platforms": {

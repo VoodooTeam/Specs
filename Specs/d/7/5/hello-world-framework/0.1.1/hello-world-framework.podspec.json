@@ -12,7 +12,7 @@
     "amograbi15": "amir.mograbi@oath.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/hello_world_framework.zip"
+    "http": "https://artifactory.verizonmedia.com/artifactory/maven/hello_world_framework.zip"
   },
   "platforms": {
     "ios": "8.0"

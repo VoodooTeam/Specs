@@ -12,7 +12,7 @@
     "Verizon Media": "MobileAdsSDK@verizonmedia.com"
   },
   "source": {
-    "http": "https://yahoo.bintray.com/maven/com/verizon/ads/ios-vas-native-verizon-native-adapter-cocoapods-artifact/2.5.0/ios-vas-native-verizon-native-adapter-cocoapods-artifact-2.5.0.zip"
+    "http": "https://artifactory.verizonmedia.com/artifactory/maven/com/verizon/ads/ios-vas-native-verizon-native-adapter-cocoapods-artifact/2.5.0/ios-vas-native-verizon-native-adapter-cocoapods-artifact-2.5.0.zip"
   },
   "requires_arc": true,
   "platforms": {
