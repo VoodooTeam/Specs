@@ -36,5 +36,6 @@
     "Security",
     "MobileCoreServices",
     "CoreGraphics"
-  ]
+  ],
+  "vendored_frameworks": "src_ios_geofence-appice-sdk/AppICELocationModule"
 }
