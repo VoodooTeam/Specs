@@ -14,7 +14,7 @@
     "text": "\nCopyright 2021 AppLovin Corp. All rights reserved.\n\nThe AppLovin SDK is available under a commercial license (https://www.applovin.com/eula).\n\n"
   },
   "source": {
-    "http": "https://applovin-mobile-artifacts.s3.amazonaws.com/ios/com/applovin/applovin-sdk/applovin-ios-sdk-6.15.4.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJNFTPSTMDA4A2G2Q/20210706/us-east-1/s3/aws4_request&X-Amz-Date=20210706T163957Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=470e3c5eadd2fa4c365d128faa552011e8aa2f72b2348d8cbe49db4bea0b2be4",
+    "http": "https://voodoosauce-sdk.s3.eu-west-2.amazonaws.com/pods-artifact/applovin-ios-sdk-6.15.4.zip",
     "type": "zip"
   },
   "vendored_frameworks": "applovin-ios-sdk-6.15.4/AppLovinSDK.framework",
